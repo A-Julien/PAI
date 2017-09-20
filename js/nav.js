@@ -12,7 +12,7 @@ div.innerHTML =
     "\n" +
     "    <nav>\n" +
     "        <div class=\"nav-wrapper\">\n" +
-    "            <a href=\"#\" class=\"brand-logo left\" >logo</a>\n" +
+    "            <a href=\"index.xhtml\" class=\"brand-logo left\" >Medicine Travel</a>\n" +
     "            <ul class=\"right hide-on-med-and-down\">\n" +
     "                <!-- Dropdown Trigger -->\n" +
     "                <li>\n" +
